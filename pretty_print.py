@@ -10,7 +10,9 @@
 # ...
 
 def pretty_print(dictionary, indent):
-    # Write code here
+
+    
+    
     pass
 
 o1 = {"a": 1, "b": 2}
